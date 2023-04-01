@@ -1,5 +1,4 @@
-
-[![MasterHead](https://img.freepik.com/free-vector/living-room-interior-night-with-gamer-stuff_107791-15896.jpg)](https://QuackCoder-14.io)
+<!-- [![MasterHead](https://img.freepik.com/free-vector/living-room-interior-night-with-gamer-stuff_107791-15896.jpg)](https://QuackCoder-14.io) -->
 
 
 
